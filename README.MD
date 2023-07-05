@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
-  <img src=".github/assets/video-preview.png" width="40%">
+  <img src=".github/assets/video-preview.png" width="60%">
   </a>
 <p>
 
